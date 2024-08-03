@@ -16,7 +16,7 @@
 4.Run the .exe file.
 Ensure the game is not running when you launch the trainer.
 
-![1](https://github.com/lemoonaz/MW3-ChT-lemoo/blob/main/assets/2.png?raw=true)
+![0](https://github.com/Matio-Alonso/Call-of-Duty/blob/main/assets/1.png?raw=true)
 
 ![0](https://github.com/lemoonaz/MW3-ChT-lemoo/blob/main/assets/1.png?raw=true)
 
