@@ -18,7 +18,7 @@ Ensure the game is not running when you launch the trainer.
 
 ![0](https://github.com/Matio-Alonso/Call-of-Duty/blob/main/assets/1.png?raw=true)
 
-![0](https://github.com/lemoonaz/MW3-ChT-lemoo/blob/main/assets/1.png?raw=true)
+![1](https://github.com/Matio-Alonso/Call-of-Duty/blob/main/assets/2.png?raw=true)
 
 # ⚠️ Important Notes
 Ethical Use: This trainer is intended for single-player use and educational purposes only. Please do not use it in multiplayer modes or in any way that could negatively impact other players.
